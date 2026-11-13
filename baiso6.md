@@ -4,7 +4,6 @@
 **Thông tin sinh viên:**
 - **Họ và tên:** Lê Hồ Thanh Thảo
 - **Mã sinh viên:** N26DTCN030
-- **Lớp:** D26TXCN02-N
 - **Môn học:** Nhập môn Công nghệ Thông tin (IT_108) 
 
 ---
